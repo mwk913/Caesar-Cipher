@@ -18,4 +18,4 @@ end
 
 dictionary = ["below","down","go","going","horn","how","howdy","it","i","low","own","part","partner","sit"]
 
-substrings("Howdy partner, sit down! How's it going, it? What are you doing go go go go go", dictionary)
+substrings("Howdy partner, sit down! How's it going, it? go go go go go", dictionary)
